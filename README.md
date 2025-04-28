@@ -1,6 +1,24 @@
 # 🎯 Final Year Project - B.Tech (2025)
 Welcome to our Final Year Project repository!  
-This project is aimed at solving binary and multi-class classification problems using various machine learning techniques, supported by a basic frontend interface for real-time user interaction.  
+
+The increasing sophistication and frequency of cyber threats, particularly Distributed Denial of
+Service (DDoS)andDenialofService(DoS)attacks, demandadvancedmitigationtechniques to protect
+modern networks. This project proposes an integrated deep learning framework for cyber threat
+detection and prevention, beginning with DDoS attacks. Using optimized preprocessing techniques
+and state-of-the-art deep learning algorithms such as LSTM and GAN, the model will be trained on
+robust datasets like CIC-DDoS2019 to detect and mitigate these attacks in real-time. The system
+incorporates autoencoders to explore anomaly detection capabilities and enhance its performance.  
+The initial phase focuses on achieving high accuracy in DDoSattack detection and prevention. In
+the extended scope, the model will evolve to address other cyber threats, offering a scalable solution
+for diverse intrusion scenarios. This research aims to contribute to cybersecurity by leveraging the
+adaptability of machine learning and deep learning models, emphasizing real-time threat analysis,
+efficient feature selection, and comprehensive system evaluation. Future enhancements include
+testing the framework on additional datasets and integrating advanced architectures for greater
+resilience and precision against emerging cyber threats
+
+
+
+  
 We developed a complete pipeline: from data preparation, model building, evaluation, to a simple frontend to demonstrate predictions.
 
 ## 📚 Table of Contents
